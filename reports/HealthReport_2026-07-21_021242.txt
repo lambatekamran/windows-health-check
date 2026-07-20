@@ -1,0 +1,77 @@
+﻿==============================================
+        WINDOWS HEALTH CHECK REPORT
+==============================================
+
+Computer Name : DESKTOP-R015HOG
+Current User  : Ismail
+Operating System : Microsoft Windows 10 Pro
+OS Version    : 10.0.19045
+
+CPU INFORMATION
+-----------------------------
+Processor     : Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz
+CPU Usage     : 28%
+Cores         : 4
+Logical CPU   : 8
+
+MEMORY INFORMATION
+-----------------------------
+Total Memory  : 5.91 GB
+Used Memory   : 4.98 GB
+Free Memory   : 0.93 GB
+Usage         : 84%
+
+DISK INFORMATION
+-----------------------------
+Drive         : C:
+Label         : 
+Total Space   : 231.82 GB
+Used Space    : 81.43 GB
+Free Space    : 150.39 GB
+Free Percent  : 65%
+Status        : Healthy
+
+NETWORK INFORMATION
+-----------------------------
+Adapter       : Ethernet
+IPv4 Address  : 10.153.94.51
+Gateway       : 10.153.94.250
+DNS Servers   : 8.8.8.8, 8.8.4.4
+MAC Address   : 98-90-96-E2-5A-56
+Internet      : Connected
+
+INSTALLED SOFTWARE
+-----------------------------
+Cisco Packet Tracer 8.2.1 64Bit (8.2.1.118)
+Cisco Packet Tracer 9.0.0 64Bit (9.0.0.810)
+Copilot (150.0.4078.65)
+Google Chrome (150.0.7871.129)
+Intel(R) Processor Graphics (20.19.15.4835)
+Maxx Audio Installer (x64) (2.6.6448.1)
+Microsoft Edge (150.0.4078.83)
+Microsoft Edge WebView2 Runtime (150.0.4078.83)
+Microsoft Office Professional Plus 2016 - en-us (16.0.19127.20302)
+Microsoft OneDrive (26.113.0614.0004)
+Microsoft Update Health Tools (3.74.0.0)
+Mozilla Firefox (x64 en-US) (152.0.6)
+Mozilla Maintenance Service (133.0.3)
+Office 16 Click-to-Run Extensibility Component (16.0.19127.20154)
+Office 16 Click-to-Run Licensing Component (16.0.19029.20208)
+Python 3.13.14 Core Interpreter (64-bit) (3.13.14150.0)
+Python 3.13.14 Development Libraries (64-bit) (3.13.14150.0)
+Python 3.13.14 Documentation (64-bit) (3.13.14150.0)
+Python 3.13.14 Executables (64-bit) (3.13.14150.0)
+Python 3.13.14 pip Bootstrap (64-bit) (3.13.14150.0)
+Python 3.13.14 Standard Library (64-bit) (3.13.14150.0)
+Python 3.13.14 Tcl/Tk Support (64-bit) (3.13.14150.0)
+Python 3.13.14 Test Suite (64-bit) (3.13.14150.0)
+Python Launcher (3.13.14150.0)
+Realtek High Definition Audio Driver (6.0.1.6086)
+Update for x64-based Windows Systems (KB5001716) (8.94.0.0)
+
+Total Installed Applications : 26
+
+OVERALL HEALTH
+-----------------------------
+Health Score : 75 / 100
+Status       : Good
