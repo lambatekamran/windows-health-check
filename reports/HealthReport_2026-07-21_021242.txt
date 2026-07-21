@@ -3,7 +3,7 @@
 ==============================================
 
 Computer Name : DESKTOP-R015HOG
-Current User  : Ismail
+Current User  : *****
 Operating System : Microsoft Windows 10 Pro
 OS Version    : 10.0.19045
 
@@ -34,10 +34,10 @@ Status        : Healthy
 NETWORK INFORMATION
 -----------------------------
 Adapter       : Ethernet
-IPv4 Address  : 10.153.94.51
-Gateway       : 10.153.94.250
+IPv4 Address  : **.***.**.***
+Gateway       : **.***.**.***
 DNS Servers   : 8.8.8.8, 8.8.4.4
-MAC Address   : 98-90-96-E2-5A-56
+MAC Address   : **-**-**-**-**-**
 Internet      : Connected
 
 INSTALLED SOFTWARE
